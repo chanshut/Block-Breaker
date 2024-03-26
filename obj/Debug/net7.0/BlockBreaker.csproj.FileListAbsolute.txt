@@ -1,0 +1,15 @@
+/Users/chanshutkeung/Documents/Code/BlockBreaker/bin/Debug/net7.0/BlockBreaker
+/Users/chanshutkeung/Documents/Code/BlockBreaker/bin/Debug/net7.0/BlockBreaker.deps.json
+/Users/chanshutkeung/Documents/Code/BlockBreaker/bin/Debug/net7.0/BlockBreaker.runtimeconfig.json
+/Users/chanshutkeung/Documents/Code/BlockBreaker/bin/Debug/net7.0/BlockBreaker.dll
+/Users/chanshutkeung/Documents/Code/BlockBreaker/bin/Debug/net7.0/BlockBreaker.pdb
+/Users/chanshutkeung/Documents/Code/BlockBreaker/obj/Debug/net7.0/BlockBreaker.csproj.AssemblyReference.cache
+/Users/chanshutkeung/Documents/Code/BlockBreaker/obj/Debug/net7.0/BlockBreaker.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chanshutkeung/Documents/Code/BlockBreaker/obj/Debug/net7.0/BlockBreaker.AssemblyInfoInputs.cache
+/Users/chanshutkeung/Documents/Code/BlockBreaker/obj/Debug/net7.0/BlockBreaker.AssemblyInfo.cs
+/Users/chanshutkeung/Documents/Code/BlockBreaker/obj/Debug/net7.0/BlockBreaker.csproj.CoreCompileInputs.cache
+/Users/chanshutkeung/Documents/Code/BlockBreaker/obj/Debug/net7.0/BlockBreaker.dll
+/Users/chanshutkeung/Documents/Code/BlockBreaker/obj/Debug/net7.0/refint/BlockBreaker.dll
+/Users/chanshutkeung/Documents/Code/BlockBreaker/obj/Debug/net7.0/BlockBreaker.pdb
+/Users/chanshutkeung/Documents/Code/BlockBreaker/obj/Debug/net7.0/BlockBreaker.genruntimeconfig.cache
+/Users/chanshutkeung/Documents/Code/BlockBreaker/obj/Debug/net7.0/ref/BlockBreaker.dll
